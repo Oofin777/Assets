@@ -1,0 +1,51 @@
+{
+
+  "item.goofymod.music_disc_rickroll": "Music Disc",
+  "item.rickroll_disc": "Rick Astley - Never gonna give you up",
+  "item.goofymod.music_disc_rickroll.desc": "Minecraft UST- Never gonna give you up",
+
+  "item.goofymod.music_disc_tall": "Music Disc",
+  "item.tall_disc": "Tall",
+  "item.goofymod.music_disc_tall.desc": "Minecraft UST- Tall",
+
+  "item.goofymod.music_disc_spooky_man": "Music Disc",
+  "item.spooky_man_disc": "Spooky Man",
+  "item.goofymod.music_disc_spooky_man.desc": "Minecraft UST- Spooky Man",
+
+  "item.goofymod.music_disc_amogus": "Music Disc",
+  "item.amogus_disc": "Amogus Drip",
+  "item.goofymod.music_disc_amogus.desc": "Minecraft UST- Among Us",
+
+  "item.goofymod.music_disc_birch_bop": "Music Disc",
+  "item.birch_bop_disc": "Birch Bop",
+  "item.goofymod.music_disc_birch_bop.desc": "Minecraft UST- Birch Bop",
+
+  "item.goofymod.music_disc_lush": "Music Disc",
+  "item.lush_disc": "Lush",
+  "item.goofymod.music_disc_lush.desc": "Minecraft UST- Lush",
+
+  "item.goofymod.music_disc_ice": "Music Disc",
+  "item.ice_disc": "Ice",
+  "item.goofymod.music_disc_ice.desc": "Minecraft UST- Ice",
+
+  "item.goofymod.music_disc_over": "Music Disc",
+  "item.over_disc": "Over",
+  "item.goofymod.music_disc_over.desc": "Minecraft UST- Over",
+
+  "item.goofymod.music_disc_slabs": "Music Disc",
+  "item.slabs_disc": "Slabs",
+  "item.goofymod.music_disc_slabs.desc": "Minecraft UST- Slabs",
+
+  "item.goofymod.music_disc_weird_realm": "Music Disc",
+  "item.weird_realm_disc": "Weird Realm",
+  "item.goofymod.music_disc_weird_realm.desc": "Minecraft UST- Weird Realm",
+
+  "item.goofymod.music_disc_shulk": "Music Disc",
+  "item.shulk_disc": "Shulk",
+  "item.goofymod.music_disc_shulk.desc": "Minecraft UST- Shulk",
+
+  "item.goofymod.goofy_bread": "Goofy bread",
+  "tooltip.goofymod.goofy_bread.hold_shift": "\u00A77Hold \u00A7eShift \u00A77for More Information",
+
+  "block.goofymod.terbium_ore": "Terbium Ore"
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "!@!",
+        "@K@",
+        "!@!"
+    ],
+    "key": {
+        "!": {
+            "item": "minecraft:dragon_breath"
+        },
+        "K": {
+            "item": "minecraft:ender_eye"
+        },
+        "@": {
+            "item": "minecraft:chorus_fruit"
+        }
+    },
+    "result": {
+        "item": "goofymod:music_disc_weird_realm",
+        "count": 1
+    }
+}

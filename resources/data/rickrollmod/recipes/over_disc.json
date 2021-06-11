@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "!!!",
+        "!I!",
+        "!!!"
+    ],
+    "key": {
+        "!": {
+            "item": "minecraft:dried_kelp"
+        },
+        "I": {
+            "item": "minecraft:light_blue_glazed_terracotta"
+        }
+    },
+    "result": {
+        "item": "goofymod:music_disc_over",
+        "count": 1
+    }
+}

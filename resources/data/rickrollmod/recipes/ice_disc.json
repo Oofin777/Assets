@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "!!!",
+        "!G@",
+        "@@@"
+    ],
+    "key": {
+        "!": {
+            "item": "minecraft:blue_ice"
+        },
+        "@": {
+            "item": "minecraft:ice"
+        },
+        "G": {
+            "item": "minecraft:packed_ice"
+        }
+    },
+    "result": {
+        "item": "goofymod:music_disc_ice",
+        "count": 1
+    }
+}

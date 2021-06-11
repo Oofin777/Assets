@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "!!!",
+        "!A!",
+        "!!!"
+    ],
+    "key": {
+        "!": {
+            "item": "minecraft:obsidian"
+        },
+        "A": {
+            "item": "minecraft:ender_eye"
+        }
+    },
+    "result": {
+        "item": "goofymod:music_disc_tall",
+        "count": 1
+    }
+}

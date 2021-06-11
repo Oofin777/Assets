@@ -1,0 +1,113 @@
+{
+  "item.rickroll_disc": {
+    "category": "item",
+    "subtitle": "item.rickroll_disc",
+    "sounds": [
+      {
+        "name": "goofymod:item/rickroll",
+        "stream": true
+      }
+    ]
+  },
+  "item.tall_disc": {
+    "category": "item",
+    "subtitle": "item.tall_disc",
+    "sounds": [
+      {
+        "name": "goofymod:item/tall",
+        "stream": true
+      }
+    ]
+  },
+  "item.spooky_man_disc": {
+    "category": "item",
+    "subtitle": "item.spooky_man_disc",
+    "sounds": [
+      {
+        "name": "goofymod:item/spooky_man",
+        "stream": true
+      }
+    ]
+  },
+  "item.shulk_disc": {
+    "category": "item",
+    "subtitle": "item.shulk_disc",
+    "sounds": [
+      {
+        "name": "goofymod:item/shulk",
+        "stream": true
+      }
+    ]
+  },
+  "item.amogus_disc": {
+    "category": "item",
+    "subtitle": "item.amogus_disc",
+    "sounds": [
+      {
+        "name": "goofymod:item/amogus",
+        "stream": true
+      }
+    ]
+  },
+  "item.birch_bop_disc": {
+    "category": "item",
+    "subtitle": "item.birch_bop_disc",
+    "sounds": [
+      {
+        "name": "goofymod:item/birch_bop",
+        "stream": true
+      }
+    ]
+  },
+  "item.ice_disc": {
+    "category": "item",
+    "subtitle": "item.ice_disc",
+    "sounds": [
+      {
+        "name": "goofymod:item/ice",
+        "stream": true
+      }
+    ]
+  },
+  "item.lush_disc": {
+    "category": "item",
+    "subtitle": "item.lush_disc",
+    "sounds": [
+      {
+        "name": "goofymod:item/lush",
+        "stream": true
+      }
+    ]
+  },
+  "item.over_disc": {
+    "category": "item",
+    "subtitle": "item.over_disc",
+    "sounds": [
+      {
+        "name": "goofymod:item/over",
+        "stream": true
+      }
+    ]
+  },
+  "item.slabs_disc": {
+    "category": "item",
+    "subtitle": "item.slabs_disc",
+    "sounds": [
+      {
+        "name": "goofymod:item/slabs",
+        "stream": true
+      }
+    ]
+  },
+  "item.weird_realm_disc": {
+    "category": "item",
+    "subtitle": "item.weird_realm_disc",
+    "sounds": [
+      {
+        "name": "goofymod:item/weird_realm",
+        "stream": true
+      }
+    ]
+  }
+
+}

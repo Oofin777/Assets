@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "!@!",
+        "@J@",
+        "!@!"
+    ],
+    "key": {
+        "!": {
+            "item": "minecraft:dried_kelp"
+        },
+        "J": {
+            "item": "minecraft:white_stained_glass"
+        },
+        "@": {
+            "item": "minecraft:black_stained_glass"
+        }
+    },
+    "result": {
+        "item": "goofymod:music_disc_slabs",
+        "count": 1
+    }
+}

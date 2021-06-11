@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "!!!",
+        "!F!",
+        "!!!"
+    ],
+    "key": {
+        "!": {
+            "item": "minecraft:birch_log"
+        },
+        "F": {
+            "item": "minecraft:birch_leaves"
+        }
+    },
+    "result": {
+        "item": "goofymod:music_disc_birch_bop",
+        "count": 1
+    }
+}

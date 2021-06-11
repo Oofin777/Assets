@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "(((",
+        "(E(",
+        "((("
+    ],
+    "key": {
+        "(": {
+            "item": "minecraft:end_stone"
+        },
+        "E": {
+            "item": "minecraft:shulker_shell"
+        }
+    },
+    "result": {
+        "item": "goofymod:music_disc_shulk",
+        "count": 1
+    }
+}

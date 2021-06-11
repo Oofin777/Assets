@@ -1,0 +1,41 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "!@#",
+        "$D%",
+        "?&*"
+    ],
+    "key": {
+        "!": {
+            "item": "minecraft:white_dye"
+        },
+        "@": {
+            "item": "minecraft:red_dye"
+        },
+        "#": {
+            "item": "minecraft:orange_dye"
+        },
+        "$": {
+            "item": "minecraft:pink_dye"
+        },
+        "D": {
+            "item": "minecraft:iron_sword"
+        },
+        "%": {
+            "item": "minecraft:yellow_dye"
+        },
+        "?": {
+            "item": "minecraft:lime_dye"
+        },
+        "&": {
+            "item": "minecraft:green_dye"
+        },
+        "*": {
+            "item": "minecraft:light_blue_dye"
+        }
+    },
+    "result": {
+        "item": "goofymod:music_disc_amogus",
+        "count": 1
+    }
+}
